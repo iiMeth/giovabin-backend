@@ -1,0 +1,16 @@
+.header {
+    background-color: #4a69bd; /* Blu scuro */
+    color: white; /* Testo bianco */
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
